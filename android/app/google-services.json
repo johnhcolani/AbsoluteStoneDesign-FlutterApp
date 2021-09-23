@@ -1,0 +1,258 @@
+{
+  "project_info": {
+    "project_number": "478710261749",
+    "project_id": "absolutestonedesign",
+    "storage_bucket": "absolutestonedesign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478710261749:android:8fa6b56fc63c749196a2bc",
+        "android_client_info": {
+          "package_name": "com.JohnColani.asdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478710261749-c3a9tlke9fsgaoe6tt650odd70h9bk4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.JohnColani.asdapp",
+            "certificate_hash": "9d44a7dc886b4821778206a9ff2dedeb5ce772cc"
+          }
+        },
+        {
+          "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30SykZbabZoY9Khvd2gXfMiO4eRmrJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478710261749-4rr49k14tk8reemut8ruo6k20dekj73s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.johncol.asd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478710261749:android:58d9cff7fabac59496a2bc",
+        "android_client_info": {
+          "package_name": "com.colani.asd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478710261749-u4fi52abs9mjrl102u0tm2gicbjit5s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colani.asd",
+            "certificate_hash": "9d44a7dc886b4821778206a9ff2dedeb5ce772cc"
+          }
+        },
+        {
+          "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30SykZbabZoY9Khvd2gXfMiO4eRmrJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478710261749-4rr49k14tk8reemut8ruo6k20dekj73s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.johncol.asd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478710261749:android:c5f93abf4e0235ed96a2bc",
+        "android_client_info": {
+          "package_name": "com.colanijohn.absolutesd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478710261749-214pnu07efe4j58vd0kkoa7h2g3g3u1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colanijohn.absolutesd",
+            "certificate_hash": "9d44a7dc886b4821778206a9ff2dedeb5ce772cc"
+          }
+        },
+        {
+          "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30SykZbabZoY9Khvd2gXfMiO4eRmrJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478710261749-4rr49k14tk8reemut8ruo6k20dekj73s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.johncol.asd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478710261749:android:03c7b030942f356796a2bc",
+        "android_client_info": {
+          "package_name": "com.john.colani.absolutechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478710261749-1p2sar2kui7vqj2gn29n9kmqvffhr66q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.john.colani.absolutechat",
+            "certificate_hash": "9d44a7dc886b4821778206a9ff2dedeb5ce772cc"
+          }
+        },
+        {
+          "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30SykZbabZoY9Khvd2gXfMiO4eRmrJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478710261749-4rr49k14tk8reemut8ruo6k20dekj73s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.johncol.asd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478710261749:android:609e6b61d8ccae6e96a2bc",
+        "android_client_info": {
+          "package_name": "com.johnc.absolutestonedesignpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30SykZbabZoY9Khvd2gXfMiO4eRmrJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478710261749-4rr49k14tk8reemut8ruo6k20dekj73s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.johncol.asd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478710261749:android:3a3ed83acead2cdf96a2bc",
+        "android_client_info": {
+          "package_name": "com.johncol.asd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30SykZbabZoY9Khvd2gXfMiO4eRmrJks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478710261749-56sbuq0dvsnf7pol8mbp5dv5ris4qqo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478710261749-4rr49k14tk8reemut8ruo6k20dekj73s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.johncol.asd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
